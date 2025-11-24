@@ -1,44 +1,11 @@
-# Dashboard Monitoring Pembiayaan Petani Tebu KUR
-# Python Requirements File
+## streamlit==1.31.0
+## pandas==2.1.4
+## numpy==1.26.3
+## plotly==5.18.0
+## python-dateutil==2.8.2
 
-# Core Framework
-streamlit==1.31.0
-
-# Data Processing
-pandas==2.1.4
-numpy==1.26.3
-
-# Visualization
-plotly==5.18.0
-
-# Date and Time
-python-dateutil==2.8.2
-
-# Optional: Database Connectors (uncomment as needed)
-# psycopg2-binary==2.9.9  # PostgreSQL
-# pymysql==1.1.0  # MySQL
-# pyodbc==5.0.1  # SQL Server
-# cx-Oracle==8.3.0  # Oracle
-
-# Optional: Excel Export Enhancement
-# openpyxl==3.1.2
-# xlsxwriter==3.1.9
-
-# Optional: PDF Generation
-# reportlab==4.0.9
-# matplotlib==3.8.2
-
-# Optional: Email Integration
-# smtplib  # Built-in Python library
-
-# Optional: API Integration
-# requests==2.31.0
-# aiohttp==3.9.1
-
-# Optional: Authentication
-# streamlit-authenticator==0.2.3
-
-# Development Tools (optional)
-# pytest==7.4.4
-# black==23.12.1
-# flake8==7.0.0
+streamlit
+pandas
+numpy
+plotly
+python-dateutil
